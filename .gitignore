@@ -1,0 +1,7 @@
+# Compiled binary
+rastertericoh
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
